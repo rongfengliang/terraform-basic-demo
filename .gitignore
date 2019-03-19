@@ -1,0 +1,5 @@
+info.md
+result.txt
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/**
